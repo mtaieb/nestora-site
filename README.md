@@ -1,10 +1,10 @@
-# Nestora — site public
+# Nestora — public website
 
-Site statique de présentation et politique de confidentialité de Nestora. Aucun outil de compilation ni dépendance externe.
+Static presentation and privacy pages. English is the default; French translations are in `fr/`. Both languages work without JavaScript and retain the selected language when navigating between pages.
 
-Publier ce dossier dans le dépôt public séparé `mtaieb/nestora-site`. Dans Settings → Pages, choisir Deploy from a branch, branche `main`, dossier `/ (root)`.
+Hosted on GitHub Pages from `main`, `/ (root)`.
 
-- Présentation : https://mtaieb.github.io/nestora-site/
-- Confidentialité : https://mtaieb.github.io/nestora-site/privacy.html
-
-Ces adresses deviennent utilisables après activation de GitHub Pages et déploiement réussi.
+- Home: https://mtaieb.github.io/nestora-site/
+- Privacy: https://mtaieb.github.io/nestora-site/privacy.html
+- French home: https://mtaieb.github.io/nestora-site/fr/
+- French privacy: https://mtaieb.github.io/nestora-site/fr/privacy.html
